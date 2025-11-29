@@ -20,7 +20,12 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 ## CIRCUIT DIAGRAM:
 
+<img width="1037" height="821" alt="image" src="https://github.com/user-attachments/assets/9d458d01-7d84-45a7-a1d0-c712e3b320fd" />
+
 ## MODEL GRAPH:
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f68fc037-eec6-4581-b92e-3a0dd2e47509" />
+
 
 ## PROCEDURE:
 ### Differentiator:
@@ -34,9 +39,15 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 ## TABULATION:
 
+<img width="1036" height="547" alt="image" src="https://github.com/user-attachments/assets/0c1a507c-a27f-407e-bf9b-0e3e7a957bd3" />
+
 ## CALCULATIONS:
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d84aae3-7968-4121-84c1-6c1d7e47de8c" />
+
 ## GRAPH:
+
+<img width="1000" height="1280" alt="image" src="https://github.com/user-attachments/assets/ac9b1d5e-8ea8-41ea-a40d-fc1682a01de7" />
 
 ## RESULT:
 Thus the Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
